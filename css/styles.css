@@ -1,22 +1,21 @@
-  #resultOne {
+ #resultOne {
   display: none;
 }
 
- #resultTwo {
+ /* #resultTwo {
     display: none;
 }
 
 #resultThree {
   display: none;
-} 
+}
 
 #resultFour {
   display: none;
-}
+} */
 
-.panel {
-  background-color: #5dc8c9
-  color: #c70424;
+.well {
+  background-color: maroon;
 }
 
 body {

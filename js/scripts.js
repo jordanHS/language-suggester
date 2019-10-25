@@ -9,6 +9,10 @@ $(document).ready(function() {
 
     var total = ans1 + ans2 + ans4
 
-    if (tot)
+    if (total >= 4 && total <= 6) {
+      $('#resultOne').show();
+    } else if (total >= 6 && total <= 8) {
+      $("resultTwo").show();
+    // } else if (total = )
   });
 });

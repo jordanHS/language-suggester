@@ -1,24 +1,24 @@
-#resultOne {
+  #resultOne {
   display: none;
 }
 
-#resultTwo {
+ #resultTwo {
     display: none;
 }
 
 #resultThree {
   display: none;
-}
+} 
 
 #resultFour {
   display: none;
 }
 
-.well {
+.panel {
   background-color: #5dc8c9
   color: #c70424;
 }
 
 body {
-
+background-color: skyblue;
 }

@@ -2,7 +2,23 @@
   display: none;
 }
 
+#resultTwo {
+    display: none;
+}
+
+#resultThree {
+  display: none;
+}
+
+#resultFour {
+  display: none;
+}
+
 .well {
   background-color: #5dc8c9
   color: #c70424;
+}
+
+body {
+
 }

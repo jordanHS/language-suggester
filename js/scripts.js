@@ -11,14 +11,14 @@ $(document).ready(function() {
 
     if (total >= 4 && total <= 6) {
       $('#resultOne').show();
-    }
+    
     // } else if (total >= 6 && total <= 8) {
     //   $("#resultTwo").show();
     // } else if (total >= 8 && total <= 10) {
     //   $("#resultThree").show();
     // } else if (total >= 10 && total <= 12) {
     //   $("#resultFour").show();
-    // }
+    }
 
     $(".name").text(name);
 

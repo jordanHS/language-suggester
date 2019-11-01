@@ -1,18 +1,18 @@
- #resultOne {
+ #ruby {
   display: none;
 }
 
- /* #resultTwo {
+ #python {
     display: none;
 }
 
-#resultThree {
+#cSharp {
   display: none;
 }
 
-#resultFour {
+#JavaScript {
   display: none;
-} */
+}
 
 .well {
   background-color: maroon;

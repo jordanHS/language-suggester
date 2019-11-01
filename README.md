@@ -18,7 +18,8 @@ A brief survey with four multiple choice questions that suggests a programming l
 
 ## Known Bugs
 
-Answers aren't displaying after form is submitted.
+<!-- Answers aren't displaying after form is submitted. -->
+All errors fixed.
 
 ## Support and contact details
 
